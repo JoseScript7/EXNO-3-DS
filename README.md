@@ -33,6 +33,7 @@ We use this categorical data encoding technique when the features are nominal(do
 
 # CODING AND OUTPUT:
 FEATURE ENCODING
+        
     import pandas as pd
     df=pd.read_csv("Encoding Data.csv")
     df
